@@ -40,7 +40,7 @@ Um determinado produtor necessita armazenar a sua produção de soja deste ano. 
 
 * Utilize [Delphi Community Edition](https://www.embarcadero.com/br/products/delphi/starter);
 * Utilize apenas componentes nativos do Delphi Community Edition;
-* Para banco de dados utilize Firebird versão 2.1. Pode ser baixado [clicando aqui.](http://sourceforge.net/projects/firebird/files/firebird-win32/2.1.7-Release/Firebird-2.1.7.18553_0_Win32.exe/download) ;
+* Para banco de dados utilize Firebird versão 2.1. Pode ser baixado [clicando aqui](http://sourceforge.net/projects/firebird/files/firebird-win32/2.1.7-Release/Firebird-2.1.7.18553_0_Win32.exe/download);
 * Utilize boas práticas de codificação, isso será avaliado;
 * Desenvolva a aplicação de forma que ela compile facilmente em qualquer equipamento, sem a necessidade de iteração com configurações;
 * Mostre que você manja dos paranauê do Delphi;
