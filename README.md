@@ -23,9 +23,9 @@ Um determinado produtor necessita armazenar a sua produção de soja deste ano. 
 	
   Desenvolva um aplicativo que seja possível gerenciar os contratos de vendas realizados entre o produtor e a trade, de forma que na gravação do contrato o sistema faça a distribuição automática dos grãos nos silos da trade. Cuidado com o limite de cada silo e suas validações básicas.
   
-	*O aplicativo deve permitir filtrar os contratos informando o CNPJ do produtor ou da trade.
-	*O aplicativo deve permitir gerenciar vários contratos de venda, de várias trades e produtores diferentes.
-	*O aplicativo deve permitir imprimir um relatório contendo todos os contratos cadastrados informando o nome do produto, nome da trade, o grão do contrato e a quantidade armazenada em kg.
+	O aplicativo deve permitir filtrar os contratos informando o CNPJ do produtor ou da trade.
+	O aplicativo deve permitir gerenciar vários contratos de venda, de várias trades e produtores diferentes.
+	O aplicativo deve permitir imprimir um relatório contendo todos os contratos cadastrados informando o nome do produto, nome da trade, o grão do contrato e a quantidade armazenada em kg.
   
   Siga abaixo a estrutura de diretórios exigidas para este projeto:
   
@@ -38,8 +38,8 @@ Um determinado produtor necessita armazenar a sua produção de soja deste ano. 
 
 ## Recomendações
 
-* Utilize Delphi Community;
-* Utilize apenas componentes nativos do Delphi Community;
+* Utilize [Delphi Community Edition](https://www.embarcadero.com/br/products/delphi/starter);
+* Utilize apenas componentes nativos do Delphi Community Edition;
 * Para banco de dados utilize Firebird versão 2.1. Pode ser baixado [clicando aqui.](http://sourceforge.net/projects/firebird/files/firebird-win32/2.1.7-Release/Firebird-2.1.7.18553_0_Win32.exe/download) ;
 * Utilize boas práticas de codificação, isso será avaliado;
 * Desenvolva a aplicação de forma que ela compile facilmente em qualquer equipamento, sem a necessidade de iteração com configurações;
