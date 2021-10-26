@@ -19,13 +19,13 @@ Estamos com nossos clientes, pra fazer o campo acontecer. Temos orgulho de ajuda
 
 Um determinado produtor necessita armazenar a sua produção de soja deste ano. Sendo assim este produtor irá realizar um contrato de venda para uma trade que será responsável por armazenar os grãos em seus silos.
 
-	Basicamente no contrato de venda identificamos o produtor, a trade, o grão que será negociado e a quantidade. Cada contrato deve permitir a negociação de apenas um tipo de grão.
+Basicamente no contrato de venda identificamos o produtor, a trade, o grão que será negociado e a quantidade. Cada contrato deve permitir a negociação de apenas um tipo de grão.
 	
-	Uma trade pode possuir mais de um silo para armazenagem que geralmente tem a capacidade de armazenamento de 90.000 kg de grãos, independente do grão armazenado.
+Uma trade pode possuir mais de um silo para armazenagem que geralmente tem a capacidade de armazenamento de 90.000 kg de grãos, independente do grão armazenado.
 	
-  Desenvolva um aplicativo que seja possível gerenciar os contratos de vendas realizados entre o produtor e a trade, de forma que na gravação do contrato o sistema faça a distribuição automática dos grãos nos silos da trade. 
+Desenvolva um aplicativo que seja possível gerenciar os contratos de vendas realizados entre o produtor e a trade, de forma que na gravação do contrato o sistema faça a distribuição automática dos grãos nos silos da trade. 
   
-  Cuidado com o limite de cada silo e suas validações básicas.
+Cuidado com o limite de cada silo e suas validações básicas.
   
 	O aplicativo deve permitir filtrar os contratos informando o CNPJ do produtor ou da trade.
 	O aplicativo deve permitir gerenciar vários contratos de venda, de várias trades e produtores diferentes.
